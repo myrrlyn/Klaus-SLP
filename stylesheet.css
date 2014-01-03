@@ -11,6 +11,10 @@ body > table * { border: 1px solid black; }
 {
 	font-family: "Roboto", "Segoe UI", "Helvetica Neue", "Helvetica", "Verdana", "Arial", sans-serif;
 }
+a
+{
+	font-family: Inconsolata;
+}
 
 /* Main body */
 body
@@ -24,49 +28,49 @@ div#banner
 	border-radius: 10px;
 	border-style: solid;
 	border-width: 10px;
-	margin: 0 150px;
-    text-align: center;
+	margin: 0 auto;
+	text-align: center;
 	width: 994px;
 }
-	div#banner div
-	{
-		display: inline-block;
-		vertical-align: center;
-	}
-		a#culverlink img
-		{
-			height: 100px;
-			width: 194px;
-		}
-		a#SLPlink img
-		{
-			height: 100px;
-			width: 588px;
-		}
-		img#schoolimg
-		{
-			height: 100px;
-			width: 204px;
-		}
+div#banner div
+{
+	display: inline-block;
+	vertical-align: center;
+}
+a#culverlink img
+{
+	height: 100px;
+	width: 194px;
+}
+a#SLPlink img
+{
+	height: 100px;
+	width: 588px;
+}
+img#schoolimg
+{
+	height: 100px;
+	width: 204px;
+}
 div#tabmenu
 {
 	text-align: center;
 }
-    div#tabmenu ul
-    {
-        display: inline-block;
-        list-style-type: none;
-    }
-        div#tabmenu ul li
-        {
-            display: inline-block;
-            padding-right: 15px;
-        }
-            div#tabmenu ul li a:link,
-            div#tabmenu ul li a:visited
-			{
-				color: #F4F4F4;
-			}
+div#tabmenu ul
+{
+	display: inline-block;
+	list-style-type: none;
+}
+div#tabmenu ul li
+{
+	display: inline-block;
+	padding-right: 15px;
+}
+div#tabmenu ul li a:link,
+div#tabmenu ul li a:visited
+{
+	color: #F4F4F4;
+}
 div#leftside
 {
 	border-color: white;
@@ -78,37 +82,37 @@ div#leftside
 	float: left;
 	width: 200px;
 }
-	ul#navlinks
-	{
-		list-style-type: none;
-	}
-		ul#navlinks li
-		{
-			padding: 3px 0;
-		}
-			ul#navlinks li.selected
-			{
-				background-color: #F4F4F4;
-			}
-				ul#navlinks li.selected a:link,
-				ul#navlinks li.selected a:visted
-				{
-					color: #161616 !important;
-				}
-			ul#navlinks li a:link
-			{
-				color: #F4F4F4;
-				font-weight: 500;
-				text-decoration: none;
-			}
-			ul#navlinks li a:hover
-			{
-				text-decoration: underline;
-			}
-			ul#navlinks li a:visited
-			{
-				color: #A0A0A0;
-			}
+ul#navlinks
+{
+	list-style-type: none;
+}
+ul#navlinks li
+{
+	padding: 3px 0;
+}
+ul#navlinks li.selected
+{
+	background-color: #F4F4F4;
+}
+ul#navlinks li.selected a:link,
+ul#navlinks li.selected a:visted
+{
+	color: #161616 !important;
+}
+ul#navlinks li a:link
+{
+	color: #F4F4F4;
+	font-weight: 500;
+	text-decoration: none;
+}
+ul#navlinks li a:hover
+{
+	text-decoration: underline;
+}
+ul#navlinks li a:visited
+{
+	color: #A0A0A0;
+}
 div#rightside
 {
 	border-color: white;
@@ -131,4 +135,5 @@ div#footer
 	color: #FFF;
 	font-size: 8px;
 	text-align: center;
+	vertical-align: bottom;
 }
