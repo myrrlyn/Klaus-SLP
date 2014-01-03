@@ -1,0 +1,9 @@
+/* Just to see what's what */
+* { border: 1px solid black; }
+
+/* Main body */
+body
+{
+	background-color: #990000;
+	background-image: mm_bg_red.gif;
+}
