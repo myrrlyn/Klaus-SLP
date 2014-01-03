@@ -2,7 +2,12 @@
 body > table * { border: 1px solid black; }
 
 /* Formatting */
-a
+@font-face
+{
+	font-family: Roboto;
+	url(http://fonts.googleapis.com/css?family=Roboto);
+}
+*
 {
 	font-family: "Roboto", "Segoe UI", "Helvetica Neue", "Helvetica", "Verdana", "Arial", sans-serif;
 }
@@ -10,73 +15,120 @@ a
 /* Main body */
 body
 {
-	background-color: #990000;
-	background-image: url(mm_bg_red.gif);
+	background-color: #900;
+	background-image: url(images/red-bg.png);
 }
 div#banner
 {
-	border: 10px solid #FFF;
+	border-color: white;
 	border-radius: 10px;
-	margin-left: 100px;
+	border-style: solid;
+	border-width: 10px;
+	margin: 0 150px;
+    text-align: center;
 	width: 994px;
 }
-div#banner div
-{
-	display: inline-block;
-	vertical-align: center;
-}
-	a#culverlink img
+	div#banner div
 	{
-		height: 100px;
-		width: 194px;
+		display: inline-block;
+		vertical-align: center;
 	}
-	a#SLPlink img
-	{
-		height: 100px;
-		width: 588px;
-	}
-	div#school img
-	{
-		height: 100px;
-		width: 204px;
-	}
+		a#culverlink img
+		{
+			height: 100px;
+			width: 194px;
+		}
+		a#SLPlink img
+		{
+			height: 100px;
+			width: 588px;
+		}
+		img#schoolimg
+		{
+			height: 100px;
+			width: 204px;
+		}
 div#tabmenu
 {
 	text-align: center;
 }
+    div#tabmenu ul
+    {
+        display: inline-block;
+        list-style-type: none;
+    }
+        div#tabmenu ul li
+        {
+            display: inline-block;
+            padding-right: 15px;
+        }
+            div#tabmenu ul li a:link,
+            div#tabmenu ul li a:visited
+			{
+				color: #F4F4F4;
+			}
 div#leftside
 {
+	border-color: white;
+	border-radius: 10px;
+	border-style: solid;
+	border-width: 1px;
+	margin-right: 10px;
+	padding: 10px;
 	float: left;
 	width: 200px;
 }
-ul#navlinks li.selected
-{
-	background-color: #F4F4F4;
-}
-ul#navlinks li.selected a:link,
-ul#navlinks li.selected a:visted
-{
-	color: #161616 !important;
-}
-ul#navlinks li a:link
-{
-	color: #F4F4F4;
-	font-weight: 500;
-}
-ul#navlinks li a:visited
-{
-	color: #A0A0A0;
-}
+	ul#navlinks
+	{
+		list-style-type: none;
+	}
+		ul#navlinks li
+		{
+			padding: 3px 0;
+		}
+			ul#navlinks li.selected
+			{
+				background-color: #F4F4F4;
+			}
+				ul#navlinks li.selected a:link,
+				ul#navlinks li.selected a:visted
+				{
+					color: #161616 !important;
+				}
+			ul#navlinks li a:link
+			{
+				color: #F4F4F4;
+				font-weight: 500;
+				text-decoration: none;
+			}
+			ul#navlinks li a:hover
+			{
+				text-decoration: underline;
+			}
+			ul#navlinks li a:visited
+			{
+				color: #A0A0A0;
+			}
 div#rightside
 {
+	border-color: white;
+	border-radius: 10px;
+	border-style: solid;
+	border-width: 1px;
 	float: right;
+	margin-left: 10px;
+	padding: 10px;
 	text-align: justify;
 	width: 200px;
+}
+h1#projtitle
+{
+	text-align: center;
 }
 div#footer
 {
 	clear: both;
 	color: #FFF;
-	font-size: 10px;
+	font-size: 8px;
 	text-align: center;
 }
