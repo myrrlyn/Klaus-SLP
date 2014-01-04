@@ -30,7 +30,7 @@ th, td
 	border: 1px solid black;
 }
 
-/* Main body */
+/* Main body elements */
 body
 {
 	background-color: #900;
@@ -46,6 +46,50 @@ div#banner
 	text-align: center;
 	width: 1000px;
 }
+div#tabmenu
+{
+	text-align: center;
+}
+div#leftside
+{
+	background-color: #903;
+	border-color: white;
+	border-radius: 10px;
+	border-style: solid;
+	border-width: 1px;
+	margin-right: 20px;
+	padding: 10px;
+	float: left;
+	width: 250px;
+}
+div#rightside
+{
+	background-color: #903;
+	border-color: white;
+	border-radius: 10px;
+	border-style: solid;
+	border-width: 1px;
+	float: right;
+	margin-left: 20px;
+	padding: 10px;
+	text-align: justify;
+	width: 250px;
+}
+div#center
+{
+	
+}
+div#footer
+{
+	clear: both;
+	color: #FFF;
+	font-size: 8px;
+	margin-top: 10px;
+	text-align: center;
+	vertical-align: bottom;
+}
+
+/* Nested Elements */
 div#banner div
 {
 	display: inline-block;
@@ -67,10 +111,6 @@ img#schoolimg
 	height: 100px;
 	width: 204px;
 }
-div#tabmenu
-{
-	text-align: center;
-}
 div#tabmenu ul
 {
 	display: inline-block;
@@ -86,18 +126,6 @@ div#tabmenu ul li a:link,
 div#tabmenu ul li a:visited
 {
 	color: #F4F4F4;
-}
-div#leftside
-{
-	background-color: #903;
-	border-color: white;
-	border-radius: 10px;
-	border-style: solid;
-	border-width: 1px;
-	margin-right: 20px;
-	padding: 10px;
-	float: left;
-	width: 250px;
 }
 ul#navlinks
 {
@@ -130,19 +158,6 @@ ul#navlinks li.selected a:visited
 {
 	color: #161616;
 }
-div#rightside
-{
-	background-color: #903;
-	border-color: white;
-	border-radius: 10px;
-	border-style: solid;
-	border-width: 1px;
-	float: right;
-	margin-left: 20px;
-	padding: 10px;
-	text-align: justify;
-	width: 250px;
-}
 h1#pagename
 {
 	text-align: center;
@@ -151,15 +166,44 @@ div.content
 {
 	margin: 0px 300px;
 }
-div#footer
-{
-	clear: both;
-	color: #FFF;
-	font-size: 8px;
-	text-align: center;
-	vertical-align: bottom;
-}
 ul#stakeholders
 {
 	list-style: circle;
+}
+table#stakeholders thead th
+{
+	font-weight: 900;
+	text-transform: uppercase;
+}
+table#stakeholders tr td
+{
+	padding: 0 3px;
+	text-align: center;
+}
+table#stakeholders tr:first-child td
+{
+	font-weight: bold !important;
+}
+table#stakeholders tr td:nth-child(1) /* Stakeholders */
+{
+	color: white;
+	font-weight: 500;
+}
+table#stakeholders tr td:nth-child(2) /* Interest */
+{
+	font-family: cursive;
+	font-size: 14px;
+}
+table#stakeholders tr td:nth-child(3) /* Priority */
+{
+	font-size: 18px;
+	padding: 0;
+}
+table#stakeholders tr td:nth-child(4) /* Influence */
+{
+	font-size: 18px;
+}
+table#stakeholders tr td:nth-child(5) /* Strategy */
+{
+	font-style: italic;
 }
