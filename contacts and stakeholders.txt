@@ -1,0 +1,353 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+	<title>
+		Contacts &amp; Stakeholders
+	</title>
+	<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" />
+	<link rel="stylesheet" href="mm_spa.css" type="text/css" />
+	<style type="text/css">
+		<!--
+		body {
+			margin-left: 100pt;
+			margin-right: 10px;
+		}
+		.style4 {
+			font-size: 14px;
+			font-weight: bold;
+		}
+		.style5 {color: #FFFF00; }
+		a:link {
+			text-decoration: none;
+		}
+		a:visited {
+			text-decoration: none;
+		}
+		a:hover {
+			text-decoration: underline;
+		}
+		a:active {
+			text-decoration: none;
+		}
+		.style6 {font-size: 14px}
+		.style7 {
+						text-align: center;
+		}
+		-->
+	</style>
+</head>
+<body bgcolor="#990000" background="mm_bg_red.gif">
+	<table width="997" height="2911" border="0" cellpadding="0" cellspacing="0">
+		<tr bgcolor="#220103">
+			<td nowrap="nowrap">
+				<img src="Small%20Culver1.gif" width="198" height="100" /></td>
+			<td height="55" valign="bottom" nowrap="nowrap" bgcolor="#990000" id="logo"><div align="center">
+				<img src="srvtlead%20banner1.gif" alt="Banner" width="588" height="100" align="texttop" /></div></td>
+			<td width="200" bgcolor="#990000">
+				<img src="photos/Chapel.JPG" width="202" height="98" /></td>
+			<td width="12" bgcolor="#750204">&nbsp;</td>
+		</tr>
+		<tr bgcolor="#FF9900">
+			<td colspan="4"><img src="mm_spacer.gif" alt="" width="1" height="1" border="0" /></td>
+		</tr>
+		<tr bgcolor="#FF080E">
+			<td height="2" colspan="4"><img src="mm_spacer.gif" alt="" width="1" height="2" border="0" /></td>
+		</tr>
+		<tr bgcolor="#FF9900">
+			<td colspan="4"><img src="mm_spacer.gif" alt="" width="1" height="1" border="0" /></td>
+		</tr>
+		<tr bgcolor="#FF080E">
+			<td height="29">&nbsp;</td>
+			<td height="29"><table width="272" height="36" border="1" bgcolor="#750204">
+				<tr>
+					<td width="64" class="navText"><div align="center" class="style4"> <a href="Home.html" class="style5">Home</a></div></td>
+					<td width="98" class="navText"><div align="center" class="style4"><a href="pictures.html" class="style5">Pictures</a></div></td>
+					<td width="88" class="navText"><div align="center" class="style4"><a href="forms.html" class="style5">Forms</a></div></td>
+				</tr>
+				</table></td>
+			<td height="29">&nbsp;</td>
+			<td height="29">&nbsp;</td>
+		</tr>
+		<tr bgcolor="#FF9900">
+			<td height="2" colspan="4"><img src="mm_spacer.gif" alt="" width="1" height="1" border="0" /></td>
+		</tr>
+		<tr bgcolor="#FF080E">
+			<td height="2" colspan="4"><img src="mm_spacer.gif" alt="" width="1" height="2" border="0" /></td>
+		</tr>
+		<tr bgcolor="#FF9900">
+			<td colspan="4"><img src="mm_spacer.gif" alt="" width="1" height="1" border="0" /></td>
+		</tr>
+		<tr>
+			<td width="200" height="2725" valign="top" id="navborder"><br />
+				<table width="195" height="226" border="0" cellpadding="0" cellspacing="0" id="navigation">
+					<tr>
+						<td width="195"><a href="project vision &amp; description.html" class="navText">PROJECT VISION &amp; DESCRIPTION </a></td>
+					</tr>
+					<tr>
+						<td width="195"><a href="community description.html" class="navText">COMMUNITY DESCRIPTION </a></td>
+					</tr>
+					<tr>
+						<td width="195" bgcolor="#FFFFCC"><a href="javascript:;" class="navText">CONTACTS &amp; STAKEHOLDERS </a></td>
+					</tr>
+					<tr>
+						<td><a href="goals, objectives, activities.html" class="navText">GOALS, OBJECTIVES &amp; ACTIVITIES </a></td>
+					</tr>
+					<tr>
+						<td><a href="time and daily activities.html" class="navText">TIME &amp; DAILY ACTIVITIES </a></td>
+					</tr>
+					<tr>
+						<td><a class="navText" href="daily%20reports.html">DAILY REPORTS </a></td>
+					</tr>
+					<tr>
+						<td><a href="journal of reflection.html" class="navText">JOURNAL OF REFLECTION </a></td>
+					</tr>
+					<tr>
+						<td><a href="documentation.html" class="navText">DOCUMENTATION</a></td>
+					</tr>
+					<tr>
+						<td><a href="evaluation.html" class="navText">EVALUATION</a></td>
+					</tr>
+					<tr>
+						<td width="195"><a href="closing.html" class="navText">CLOSING</a></td>
+					</tr>
+					<tr>
+						<td width="195"><a class="navText" href="Links.html">LINKS</a></td>
+					</tr>
+				</table>
+			</td>
+			<td width="585" valign="top">
+				<div align="left">
+					<p>
+						<img src="mm_spacer.gif" alt="" width="305" height="1" border="0" />
+						<br />
+						<img src="photos/DSC00044.JPG" width="588" height="258" alt="Relay" />
+					</p>
+				</div>
+				<table width="584" height="299" border="0" cellpadding="0" cellspacing="0">
+					<tr>
+						<td width="579" class="pageName">CONTACTS AND STAKEHOLDERS </td>
+					</tr>
+					<tr>
+						<td class="bodyText"><div v:shape="_x0000_s1642">
+							<p><span lang="en-US" xml:lang="en-US">Insert your Contact Information here.</span><span lang="en-US" xml:lang="en-US"> Project Contact are human resources: key resource people  and organizations involved in helping yourr project. You  will list the individuals name and contact information: address,  telephone number and/or email. </span></p>
+							<p><span lang="en-US" xml:lang="en-US">Below is a sample contact list:</span></p>
+							<p>1.&nbsp;<span lang="en-US" xml:lang="en-US">Classroom teacher&nbsp; </span><a href="http://www.culver.org/index.php?option=com_content&amp;task=view&amp;id=2061&amp;Itemid=1960"><span lang="en-US" xml:lang="en-US">Mr. Tulungen</span></a><span lang="en-US" xml:lang="en-US"> or </span><a href="http://www.culver.org/index.php?option=com_content&amp;task=view&amp;id=2059&amp;Itemid=1960"><span lang="en-US" xml:lang="en-US">Mrs. McKinnis</span></a></p>
+							<p>2.&nbsp;<span lang="en-US" xml:lang="en-US">Contact person</span></p>
+							<p>3.&nbsp;<span lang="en-US" xml:lang="en-US">Field Supervisor</span></p>
+							<p>4.&nbsp;<span lang="en-US" xml:lang="en-US">Individuals that helped you along the way</span></p>
+							<p>5.&nbsp;<span lang="en-US" xml:lang="en-US">Resource person and those you contacted such as newspapers, other organizations and information sources</span></p>
+							</div>		  
+							<div v:shape="_x0000_s1644">
+								<p class="style6"><span lang="en-US" xml:lang="en-US">Stakeholders Analysis</span></p>
+								<p class="style6">In this page you need to include your Stakeholder Identification and Stakeholder Analysis. </p>
+							<p><span lang="en-US" xml:lang="en-US">Who  are the stakeholders? They are anyone who would have an impact or  interest in the organization and/or benefit from the outcome of the  project. Parents, organizations, the media, businesses, government  officials, teachers, students may be the stakeholders for one project.</span></p>
+								<p><span lang="en-US" xml:lang="en-US">&nbsp;</span>The steps of  Stakeholder Analysis are explained below:</p>
+								<p><strong>1. Identifying  Your Stakeholders:</strong> <br />
+									The first step in  your stakeholder analysis is to brainstorm who your stakeholders are. As part  of this, think of all the people who are affected by your work, who have  influence or power over it, or have an interest in its successful or  unsuccessful conclusion.<br />
+									&nbsp;&nbsp;
+									<br />
+									Remember that  although stakeholders may be both organizations and people, ultimately you must  communicate with people. Make sure that you identify the correct individual  stakeholders within a stakeholder organization. Sample of Stakeholder Analysis:
+								</p>
+								<table border="1" cellpadding="0" cellspacing="0">
+									<tbody>
+										<tr>
+											<td width="118" valign="top"><p><strong>Stakeholder</strong></p></td>
+											<td width="118" valign="top"><p><strong>Interest</strong></p></td>
+											<td width="118" valign="top"><p><strong>Priority</strong><br />
+												<strong>(1, 2, 3)</strong></p></td>
+											<td width="118" valign="top"><p><strong>Impact</strong><br />
+												<strong>(+, 0, -)</strong></p></td>
+											<td width="118" valign="top"><p><strong>Strategy</strong></p></td>
+										</tr>
+										<tr>
+											<td width="118" valign="top"><p>Culver children</p></td>
+											<td width="118" valign="top"><p>Learning experience</p></td>
+											<td width="118" valign="top"><p>1</p></td>
+											<td width="118" valign="top"><p>+</p></td>
+											<td width="118" valign="top"><p>Keep Satisfied</p></td>
+										</tr>
+										<tr>
+											<td width="118" valign="top"><p>Parents</p></td>
+											<td width="118" valign="top"><p>Interaction with their	children</p></td>
+											<td width="118" valign="top"><p>1</p></td>
+											<td width="118" valign="top"><p>+</p></td>
+											<td width="118" valign="top"><p>Keep Satisfied</p></td>
+										</tr>
+										<tr>
+											<td width="118" valign="top"><p>Dave Surovchak</p></td>
+											<td width="118" valign="top"><p>Trainer, Sponsor</p></td>
+											<td width="118" valign="top"><p>1</p></td>
+											<td width="118" valign="top"><p>+</p></td>
+											<td width="118" valign="top"><p>Keep Informed</p></td>
+										</tr>
+										<tr>
+											<td width="118" valign="top"><p>Al Clark</p></td>
+											<td width="118" valign="top"><p>Athletic director</p></td>
+											<td width="118" valign="top"><p>2</p></td>
+											<td width="118" valign="top"><p>+</p></td>
+											<td width="118" valign="top"><p>Keep Informed</p></td>
+										</tr>
+										<tr>
+											<td width="118" valign="top"><p>Culver Faculty/Staff</p></td>
+											<td width="118" valign="top"><p>Prospective parents</p></td>
+											<td width="118" valign="top"><p>1</p></td>
+											<td width="118" valign="top"><p>+</p></td>
+											<td width="118" valign="top"><p>Keep Informed/Satisfied</p></td>
+										</tr>
+										<tr>
+											<td width="118" valign="top"><p>Culver Academies</p></td>
+											<td width="118" valign="top"><p>Good relations</p></td>
+											<td width="118" valign="top"><p>3</p></td>
+											<td width="118" valign="top"><p>+</p></td>
+											<td width="118" valign="top"><p>Keep Satisfied </p></td>
+										</tr>
+										<tr>
+											<td width="118" valign="top"><p>Culver Community</p></td>
+											<td width="118" valign="top"><p>Good relations</p></td>
+											<td width="118" valign="top"><p>3</p></td>
+											<td width="118" valign="top"><p>+</p></td>
+											<td width="118" valign="top"><p>Keep Satisfied</p></td>
+										</tr>
+										<tr>
+											<td width="118" valign="top"><p>Culver soccer teams</p></td>
+											<td width="118" valign="top"><p>Prospective players</p></td>
+											<td width="118" valign="top"><p>3</p></td>
+											<td width="118" valign="top"><p>+</p></td>
+											<td width="118" valign="top"><p>Monitor</p></td>
+										</tr>
+										<tr>
+											<td width="118" valign="top"><p>Nathaniel King</p></td>
+											<td width="118" valign="top"><p>Trainer/Soccer Coach</p></td>
+											<td width="118" valign="top"><p>1</p></td>
+											<td width="118" valign="top"><p>+</p></td>
+											<td width="118" valign="top"><p>Keep Informed</p></td>
+										</tr>
+									</tbody>
+								</table>
+								<p>
+									&nbsp;
+								</p>
+								<p>
+									<strong>
+										2. Prioritize Your  Stakeholders:
+									</strong>
+									<br />
+									You may now have a  long list of people and organizations that are affected by your work. Some of these may have the power either to block or advance. Some may be interested in what you are doing, others may not care.
+								</p>
+								<p>
+									Map out your stakeholders on a Power/Interest Grid on our free template as shown in figure 1, and classify them by their power over your work and by their interest in your work.
+								</p>
+								<p align="center">
+									<img width="292" height="267" src="contacts and stakeholders_clip_image001.jpg" />
+									<br />
+									<img width="295" height="10" src="contacts and stakeholders_clip_image002.jpg" />
+								</p>
+								<p>
+									For example, your boss is likely to have high power and influence over your projects and high interest. Your family may have high interest, but are unlikely to have power over it.
+								</p>
+								<p>
+									Someone's position on the grid shows you the actions you have to take with them:
+								</p>
+								<ul type="disc">
+									<li>
+										<strong>
+											High power, interested people:
+										</strong>
+										these are the people you must fully engage and make the greatest efforts to satisfy.
+									</li>
+									<li>
+										<strong>
+											High power, less interested people:
+										</strong>
+										put enough work in with these people to keep them satisfied, but not so much that they become bored with your message.
+									</li>
+									<li>
+										<strong>
+											Low power, interested people:
+										</strong>
+										keep these people adequately informed, and talk to them to ensure that no major issues are arising. These people can often be very helpful with the detail of your project.
+									</li>
+									<li>
+										<strong>
+											Low power, less interested people:
+										</strong>
+										again, monitor these people, but do not bore them with excessive communication.
+									</li>
+								</ul>
+								<p>
+									<strong>
+										3. Understanding  your key stakeholders:
+									</strong>
+									<br />
+									You now need to know  more about your key stakeholders. You need to know how they are likely to feel  about and react to your project. You also need to know how best to engage them  in your project and how best to communicate with them.
+								</p>
+								<p>
+									At the end grouped your stakeholders.
+									<span lang="en-US" xml:lang="en-US">
+										Stakeholders can be grouped into the following categories:
+									</span>
+								</p>
+								<p>
+									<span lang="en-US" xml:lang="en-US">
+										Primary Stakeholders
+									</span>
+									<span lang="en-US" xml:lang="en-US">
+										&ndash; those involved in every aspect of the project and the recipients of the service. 
+									</span>
+								</p>
+								<p>
+									<span lang="en-US" xml:lang="en-US">
+										&nbsp;
+									</span>
+								</p>
+								<p>
+									<span lang="en-US" xml:lang="en-US">Secondary Stakeholders</span><span lang="en-US" xml:lang="en-US"> &ndash; those involved in some of the aspects of the project.</span></p>
+								<p>
+									<span lang="en-US" xml:lang="en-US">
+										&nbsp;
+									</span>
+								</p>
+								<p>
+									<span lang="en-US" xml:lang="en-US">
+										Peripheral Stakeholders
+									</span>
+									<span lang="en-US" xml:lang="en-US">
+										&ndash; those that may not have helped with the implementation of the project but are a resource.&nbsp; They may not feel that they have much to gain from the project but are supportive.
+									</span>
+								</p>
+							</div>
+							<p>
+								&nbsp;
+							</p>
+						</td>
+					</tr>
+				</table>
+				<br />
+			</td>
+			<td width="200" valign="top" class="style7">
+				<p>
+					&nbsp;
+				</p>
+				<p>
+					&nbsp;
+				</p>
+				<p>
+					&nbsp;
+				</p>
+				<p>
+					&nbsp;
+				</p>
+				<p>
+					&nbsp;
+				</p>
+				<p>
+					&nbsp;
+				</p>
+			</td>
+			<td width="12">
+				&nbsp;
+			</td>
+		</tr>
+	</table>
+</body>
+</html>

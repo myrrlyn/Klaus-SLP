@@ -12,6 +12,23 @@ a
 {
 	font-family: Inconsolata;
 }
+table
+{
+	border: 1px solid black;
+	border-collapse: collapse;
+}
+thead
+{
+	border: 2px solid black;
+}
+tr
+{
+	border: 1px solid black;
+}
+th, td
+{
+	border: 1px solid black;
+}
 
 /* Main body */
 body
@@ -94,11 +111,6 @@ ul#navlinks li.selected
 {
 	background-color: #F4F4F4;
 }
-ul#navlinks li.selected a:link,
-ul#navlinks li.selected a:visted
-{
-	color: #161616 !important;
-}
 ul#navlinks li a:link
 {
 	color: #F4F4F4;
@@ -112,6 +124,11 @@ ul#navlinks li a:hover
 ul#navlinks li a:visited
 {
 	color: #A0A0A0;
+}
+ul#navlinks li.selected a:link,
+ul#navlinks li.selected a:visited
+{
+	color: #161616;
 }
 div#rightside
 {
@@ -130,6 +147,10 @@ h1#pagename
 {
 	text-align: center;
 }
+div.content
+{
+	margin: 0px 300px;
+}
 div#footer
 {
 	clear: both;
@@ -137,4 +158,8 @@ div#footer
 	font-size: 8px;
 	text-align: center;
 	vertical-align: bottom;
+}
+ul#stakeholders
+{
+	list-style: circle;
 }
