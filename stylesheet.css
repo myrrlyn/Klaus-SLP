@@ -1,6 +1,3 @@
-/* Just to see what's what */
-body > table * { border: 1px solid black; }
-
 /* Formatting */
 @font-face
 {
@@ -11,8 +8,29 @@ body > table * { border: 1px solid black; }
 {
 	font-family: "Roboto", "Segoe UI", "Helvetica Neue", "Helvetica", "Verdana", "Arial", sans-serif;
 }
+a
+{
+	font-family: Inconsolata;
+}
+table
+{
+	border: 1px solid black;
+	border-collapse: collapse;
+}
+thead
+{
+	border: 2px solid black;
+}
+tr
+{
+	border: 1px solid black;
+}
+th, td
+{
+	border: 1px solid black;
+}
 
-/* Main body */
+/* Main body elements */
 body
 {
 	background-color: #900;
@@ -24,111 +42,175 @@ div#banner
 	border-radius: 10px;
 	border-style: solid;
 	border-width: 10px;
-	margin: 0 150px;
-    text-align: center;
-	width: 994px;
+	margin: 0 auto;
+	text-align: center;
+	width: 1000px;
 }
-	div#banner div
-	{
-		display: inline-block;
-		vertical-align: center;
-	}
-		a#culverlink img
-		{
-			height: 100px;
-			width: 194px;
-		}
-		a#SLPlink img
-		{
-			height: 100px;
-			width: 588px;
-		}
-		img#schoolimg
-		{
-			height: 100px;
-			width: 204px;
-		}
 div#tabmenu
 {
 	text-align: center;
 }
-    div#tabmenu ul
-    {
-        display: inline-block;
-        list-style-type: none;
-    }
-        div#tabmenu ul li
-        {
-            display: inline-block;
-            padding-right: 15px;
-        }
-            div#tabmenu ul li a:link,
-            div#tabmenu ul li a:visited
-			{
-				color: #F4F4F4;
-			}
 div#leftside
 {
+	background-color: #903;
 	border-color: white;
 	border-radius: 10px;
 	border-style: solid;
 	border-width: 1px;
-	margin-right: 10px;
+	margin-right: 20px;
 	padding: 10px;
 	float: left;
-	width: 200px;
+	width: 250px;
 }
-	ul#navlinks
-	{
-		list-style-type: none;
-	}
-		ul#navlinks li
-		{
-			padding: 3px 0;
-		}
-			ul#navlinks li.selected
-			{
-				background-color: #F4F4F4;
-			}
-				ul#navlinks li.selected a:link,
-				ul#navlinks li.selected a:visted
-				{
-					color: #161616 !important;
-				}
-			ul#navlinks li a:link
-			{
-				color: #F4F4F4;
-				font-weight: 500;
-				text-decoration: none;
-			}
-			ul#navlinks li a:hover
-			{
-				text-decoration: underline;
-			}
-			ul#navlinks li a:visited
-			{
-				color: #A0A0A0;
-			}
 div#rightside
 {
+	background-color: #903;
 	border-color: white;
 	border-radius: 10px;
 	border-style: solid;
 	border-width: 1px;
 	float: right;
-	margin-left: 10px;
+	margin-left: 20px;
 	padding: 10px;
 	text-align: justify;
-	width: 200px;
+	width: 250px;
 }
-h1#projtitle
+div#center
 {
-	text-align: center;
+	
 }
 div#footer
 {
 	clear: both;
 	color: #FFF;
 	font-size: 8px;
+	margin-top: 10px;
 	text-align: center;
+	vertical-align: bottom;
+}
+
+/* Nested Elements */
+div#banner div
+{
+	display: inline-block;
+	margin: 0;
+	padding: 0;
+}
+a#culverlink img
+{
+	height: 100px;
+	width: 194px;
+}
+a#SLPlink img
+{
+	height: 100px;
+	width: 588px;
+}
+img#schoolimg
+{
+	height: 100px;
+	width: 204px;
+}
+div#tabmenu ul
+{
+	display: inline-block;
+	list-style-type: none;
+	margin-left: -0px
+}
+div#tabmenu ul li
+{
+	display: inline-block;
+	padding-right: 15px;
+}
+div#tabmenu ul li a:link,
+div#tabmenu ul li a:visited
+{
+	color: #F4F4F4;
+}
+ul#navlinks
+{
+	list-style-type: none;
+}
+ul#navlinks li
+{
+	padding: 3px 0;
+}
+ul#navlinks li.selected
+{
+	background-color: #F4F4F4;
+}
+ul#navlinks li a
+{
+	color: #F4F4F4;
+	font-weight: 600;
+	text-decoration: none;
+}
+ul#navlinks li a:hover
+{
+	text-decoration: underline;
+}
+ul#navlinks li a:visited
+{
+	color: #C0C0C0;
+}
+ul#navlinks li.selected a:link,
+ul#navlinks li.selected a:visited
+{
+	color: #161616;
+}
+h1#pagename
+{
+	text-align: center;
+}
+div.content
+{
+	background-color: #F0F0F0;
+	border-color: black;
+	border-radius: 15px;
+	border-style: solid;
+	border-width: 1px;
+	color: #0F0F0F;
+	margin: 0px 300px;
+	padding: 0px 10px;
+}
+ul#stakeholders
+{
+	list-style: circle;
+}
+table#stakeholders thead th
+{
+	font-weight: 900;
+	text-transform: uppercase;
+}
+table#stakeholders tr td
+{
+	padding: 0 3px;
+	text-align: center;
+}
+table#stakeholders tr:first-child td
+{
+	font-weight: bold !important;
+}
+table#stakeholders tr td:nth-child(1) /* Stakeholders */
+{
+	color: white;
+	font-weight: 500;
+}
+table#stakeholders tr td:nth-child(2) /* Interest */
+{
+	font-family: cursive;
+	font-size: 14px;
+}
+table#stakeholders tr td:nth-child(3) /* Priority */
+{
+	font-size: 18px;
+	padding: 0;
+}
+table#stakeholders tr td:nth-child(4) /* Influence */
+{
+	font-size: 18px;
+}
+table#stakeholders tr td:nth-child(5) /* Strategy */
+{
+	font-style: italic;
 }

@@ -1,5 +1,5 @@
 # Klaus' Senior Leadership Practicum
 
-The practical application of leadership and management skills learned over four years at Culver. 
+HTML and CSS files holding Klaus' SLP at Culver Military Academies.
 
-HTML and CSS files holding Klaus' SLP at Culver Military Academies, and a Git Tutorial.
+If you do not want to add HTML directly, create *.txt (where * is the name of the HTML file destination) with the text and image names you would like included.
