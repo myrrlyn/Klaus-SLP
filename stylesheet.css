@@ -64,10 +64,10 @@ div#rightside
 	border-radius: 10px;
 	border-style: solid;
 	border-width: 1px;
+    color: #F4F4F4;
 	float: right;
 	margin-left: 20px;
 	padding: 10px;
-	text-align: justify;
 	width: 250px;
 }
 div#center
