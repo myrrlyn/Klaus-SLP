@@ -169,6 +169,14 @@ div.content
 	margin: 0px 300px;
 	padding: 0px 10px;
 }
+div.gallery
+{
+	padding: 5px 5px;
+}
+div.gallery img
+{
+	padding: 10px;
+}
 ul#stakeholders
 {
 	list-style: circle;
@@ -236,16 +244,26 @@ img.form
 }
 img.inlineimg
 {
-	display: inline-block;
+	display: inline;
+	margin: 5px;
 	width: 33%;
+}
+img.gallery
+{
+	display: inline;
+	margin: 0;
+	padding: 0;
+	width: 30%;
 }
 img.left
 {
 	float: left;
-	margin-right: 10px;
+}
+img.center
+{
+	margin: 0 auto;
 }
 img.right
 {
 	float: right;
-	margin-left; 10px;
 }
