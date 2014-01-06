@@ -160,7 +160,11 @@ h1#pagename
 }
 div.content
 {
-	background-color: #F0F0F0;
+	background-attachment: fixed;
+	background-color: #FFF;
+	background-image: url(images/Culver%20Seal%20-%20Transparent.png);
+	background-position: center center;
+	background-repeat: no-repeat;
 	border-color: black;
 	border-radius: 15px;
 	border-style: solid;
