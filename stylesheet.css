@@ -234,3 +234,18 @@ img.form
 {
 	width: 100%;
 }
+img.inlineimg
+{
+	display: inline-block;
+	width: 33%;
+}
+img.left
+{
+	float: left;
+	margin-right: 10px;
+}
+img.right
+{
+	float: right;
+	margin-left; 10px;
+}
