@@ -182,10 +182,6 @@ table#stakeholders tr td
 	padding: 0 3px;
 	text-align: center;
 }
-table#stakeholders tr:first-child td
-{
-	font-weight: bold !important;
-}
 table#stakeholders tr td:nth-child(1) /* Stakeholders */
 {
 	color: red;
