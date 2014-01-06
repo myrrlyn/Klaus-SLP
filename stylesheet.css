@@ -209,8 +209,22 @@ table#stakeholders tr td:nth-child(5) /* Strategy */
 {
 	font-style: italic;
 }
-div.report.header
+div.content > div.report
 {
+	border-color: black;
+	border-radius: 10px;
+	border-style: solid;
+	border-width: 1px;
+	margin: 5px 0;
+	padding: 0 5px;
+}
+div.content > div.report > div.report.header
+{
+	border-color: black;
+	border-radius: 10px;
+	border-style: solid;
+	border-width: 1px;
+	margin-top: 5px;
 	text-align: center;
 }
 div.report.header div
@@ -218,4 +232,8 @@ div.report.header div
 	display: inline-block;
 	font-size: 20px;
 	padding: 0 10px;
+}
+img.form
+{
+	width: 100%;
 }
