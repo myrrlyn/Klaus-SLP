@@ -175,11 +175,7 @@ div.content
 }
 div.gallery
 {
-	padding: 5px 5px;
-}
-div.gallery img
-{
-	padding: 10px;
+	padding: 0;
 }
 ul#stakeholders
 {
@@ -256,8 +252,8 @@ img.gallery
 {
 	display: inline;
 	margin: 0;
-	padding: 0;
-	width: 30%;
+	padding: 5px;
+	width: 32%;
 }
 img.left
 {
