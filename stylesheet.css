@@ -252,8 +252,8 @@ img.gallery
 {
 	display: inline;
 	margin: 0;
-	padding: 5px;
-	width: 32%;
+	padding: 0 1%;
+	width: 31%;
 }
 img.left
 {
